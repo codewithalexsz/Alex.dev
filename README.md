@@ -1,4 +1,4 @@
-# Alex.dev
+# Alex.dev 
 
 Hi My name is **Andrew Alex**
 
@@ -12,5 +12,6 @@ I am Front End developer.
 Skills
 
 HTML5   CSS3   JavaScript   React   TailwindCSS   Sass  
+
 
 
